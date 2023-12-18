@@ -1,3 +1,8 @@
+Fix unicode path issue for Orca Slicer
+
+
+----------------------------------------------
+
 *This project is not actively maintained.*
 
 Nano SVG
